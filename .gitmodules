@@ -4,3 +4,6 @@
 [submodule "last-order"]
 	path = last-order
 	url = https://github.com/radio-noise-project/last-order.git
+[submodule "loctl"]
+	path = loctl
+	url = https://github.com/radio-noise-project/loctl.git
