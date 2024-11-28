@@ -1,3 +1,6 @@
 [submodule "sisters"]
 	path = sisters
 	url = https://github.com/radio-noise-project/sisters.git
+[submodule "last-order"]
+	path = last-order
+	url = https://github.com/radio-noise-project/last-order.git
